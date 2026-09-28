@@ -2,6 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.2/.Modules/settings.schema.json",
   "country": "w1",
   "appFolders": [],
-  "testFolders": [],
-  "artifact": "bcartifacts/sandbox/22.0.54157.55210/w1/closest"
+  "testFolders": []
 }
